@@ -15,3 +15,5 @@
 include:
   - board: jiran_ble_lite_left
   - board: jiran_ble_lite_right
+  - board: nice_nano_v2
+    shield: settings_reset
